@@ -5,7 +5,8 @@
 - [General] Massive internal refactoring and code migration
 - [App] Support downloading module zip files with XZ compression
 - [App] Disable app animations when system animations are disabled
-- [MagiskMount] Support systemlessly deleting files with modules using blank file nodes
+- [MagiskM![logo](https://github.com/user-attachments/assets/aeeee687-1049-4e1b-9404-1ba4e4bb83b7)
+ount] Support systemlessly deleting files with modules using blank file nodes
 - [MagiskInit] Redesign sepolicy patching and injection logic
 - [MagiskSU] Better TTY/PTY support
 
