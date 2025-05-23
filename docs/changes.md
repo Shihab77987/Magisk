@@ -1,3 +1,4 @@
+[tools.md](https://github.com/user-attachments/files/20402561/tools.md)
 # Magisk Changelog
 
 ### v29.0
